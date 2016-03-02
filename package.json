@@ -1,0 +1,25 @@
+{
+  "name": "sweetjs-test",
+  "version": "1.0.0",
+  "description": "Playing around with sweet.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfriend/sweetjs-test.git"
+  },
+  "author": "Nathan Friend",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nfriend/sweetjs-test/issues"
+  },
+  "homepage": "https://github.com/nfriend/sweetjs-test#readme",
+  "devDependencies": {
+    "glob": "^7.0.0",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-sweetjs": "^0.6.1"
+  }
+}
